@@ -18,6 +18,33 @@ I build full-stack systems that combine backend engineering, AI integration, and
 
 ---
 
+SKILLS
+
+Backend:
+- PHP (custom REST APIs)
+- Java (core + desktop + Android basics)
+- REST API design
+
+AI:
+- LM Studio (local LLM integration)
+- Prompt engineering
+- JSON structured outputs
+
+Frontend:
+- HTML / CSS / Bootstrap
+
+Databases:
+- MySQL
+- SQLite
+
+Tools:
+- Git / GitHub
+- Apache web server XAMPP / Local Environments - PHP 8.0+, MySQL, SQLite
+- Java Apache NetBeans, Google Android Studio - Android Application
+- HTTPie & Postman REST API
+- Oracle VirtualBox VM - Windows 10, Windows 11...,
+- LM Studio - qwen3-8b, llama 3.1 8b, gemma 4, gpt-oss-20b
+
 ## 🧠 What I Build
 
 - AI-powered backend systems
