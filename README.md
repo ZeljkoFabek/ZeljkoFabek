@@ -25,3 +25,5 @@ I build full-stack systems that combine backend engineering, AI integration, and
 - SQL / database automation tools
 - Cross-platform applications (Web + Android + Desktop)
 - Local AI integrations (no cloud dependency)
+
+“I focus on building complete systems, not just code.”
