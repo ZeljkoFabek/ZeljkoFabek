@@ -1,3 +1,5 @@
+![image alt](https://github.com/ZeljkoFabek/ZeljkoFabek/blob/91ae25205f6d9f0340ab6ed32e560786a0ebb62b/viztka.png)
+
 # 👋 Hello, I'm Željko Fabek
 
 ## 💻 Software Developer | Backend + AI Systems | PHP | Java | REST APIs
