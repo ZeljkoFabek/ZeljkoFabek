@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Željko Fabek
 
-<!--
-**ZeljkoFabek/ZeljkoFabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer | Backend + AI Systems | PHP | Java | REST APIs
 
-Here are some ideas to get you started:
+I build full-stack systems that combine backend engineering, AI integration, and cross-platform applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔧 Self-taught software developer
+- 🧠 Focus on backend systems, APIs and AI integration
+- ⚙️ Experience with PHP, Java, REST APIs, MySQL, SQLite
+- 🤖 Working with local AI models (LM Studio)
+- 📱 Building Android and desktop applications
+
+---
+
+## 🧠 What I Build
+
+- AI-powered backend systems
+- REST API architectures
+- SQL / database automation tools
+- Cross-platform applications (Web + Android + Desktop)
+- Local AI integrations (no cloud dependency)
